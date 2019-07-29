@@ -27,16 +27,18 @@ We may amend or update these Business Terms, including all incorporated policies
 ### Privacy Policy
 At CleNet PLC, one of our main priorities is the privacy of our users. This Privacy Policy describes how CleNet PLC and its affiliates ("CleNet," "we," "our" or "us") collect, use, and share information in connection with your use of our application and services (collectively, the "Services").
 
-##### Information We Get
+#### Information We Get
 
-**A. Information You Provide**
+A. Information You Provide
 
 Account Registration. When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number. If you choose to refer a friend to our Services, we may also collect your friend’s email address so that we may send them a referral or promotional code to sign up for our Services.
 
-**B. Information We Collect When You Use Our Services**
+B. Information We Collect When You Use Our Services
+
 When you use the application, sometimes there may be some issues with the application and application stops working abruptly. This happens when there is some internal error occurs in the application. This error information is very important for also to collect analyze and do the necessary changes in the application so that the error shall not appear to any of the users.
 
 *How do we use this information?*
+
 We use the information that we have (subject to choices you make) as described below.
 * To provide better services
 * To notify you about changes to our Service
