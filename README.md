@@ -50,6 +50,6 @@ We use the information that we have (subject to choices you make) as described b
 
 **We do not share your information with anyone or any business entity or in any public domain.**
 
-##### Consent
+### Consent
 
 By using our application, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
